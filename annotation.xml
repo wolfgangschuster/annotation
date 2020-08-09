@@ -1,0 +1,10 @@
+<package>
+    <!-- Documentation -->
+	<file>doc/context/third/annotation/annotation-doc.pdf</file>
+	<file>doc/context/third/annotation/README</file>
+	<!-- Source -->
+	<file>tex/context/third/annotation/t-annotation.lua</file>
+	<file>tex/context/third/annotation/t-annotation.mkvi</file>
+	<!-- Interface -->
+	<file>tex/context/interface/third/t-annotation.xml</file>
+</package>
